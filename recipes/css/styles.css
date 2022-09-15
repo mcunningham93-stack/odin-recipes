@@ -11,6 +11,9 @@ p{
 
 h1{
     font-family: 'Aboreto';font-size: 60px;
-    
+    text-align: center;
 }
 
+h2 {
+    font-family: 'Aboreto';font-size: 30px;
+}
