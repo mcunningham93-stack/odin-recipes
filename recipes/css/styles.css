@@ -5,11 +5,11 @@ background-color: cornsilk;
 color: orangered;
 max-width: calc(60%);
 margin-left: calc(15%);
+font-family: 'Anaheim';
 }
 
 p {
     color: darkorchid;
-    font-family: 'Anaheim';
 }
 
 
