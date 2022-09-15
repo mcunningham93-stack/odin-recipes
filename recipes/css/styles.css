@@ -33,6 +33,11 @@ li {
 
 }
 
+.ingredients {
+    column-rule-color: orangered;
+    column-rule: 2px;
+}
+
 h1{
     font-size: 60px;
     padding-bottom: 20pt;
