@@ -30,6 +30,10 @@ h2 {
     font-size: 30px;
 }
 
+b {
+    font-weight: bolder;
+}
+
 .center {
     display: block;
     margin-left: auto;
