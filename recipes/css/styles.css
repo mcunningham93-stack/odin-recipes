@@ -62,6 +62,10 @@ b{
     padding-top: 20px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .footer{
     font-family: 'Aboreto';
     margin-left: auto;
@@ -76,6 +80,3 @@ b{
     
 }
 
-a {
-    text-decoration: none;
-}
