@@ -10,9 +10,11 @@ font-family: 'Anaheim';
 p {
     color:black;
     font-size: 19px; 
-    padding: 0px;  
 }
 
+.pf {
+    line-height: 30%;
+}
 
 li {
     color:mediumblue;
