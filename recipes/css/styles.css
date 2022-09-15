@@ -35,7 +35,8 @@ li {
 
 .ingredients {
     border: 3px solid orangered;
-    border-radius: 10pt;
+    border-radius: 2pt;
+    width: fit-content;
 }
 
 h1{
