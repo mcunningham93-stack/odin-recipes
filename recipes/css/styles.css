@@ -59,3 +59,7 @@ b{
     width: 60%;
     padding-top: 20px;
 }
+
+a {
+    text-decoration: none;
+}
