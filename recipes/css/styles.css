@@ -63,6 +63,8 @@ b{
 
 .footer{
     font-family: 'Aboreto';
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     background-color: orangered;
     width: fit-content;
