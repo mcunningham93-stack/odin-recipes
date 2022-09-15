@@ -27,6 +27,8 @@ li {
     font-family: 'Aboreto';
     text-align: center;
     font-style: underline;
+    line-height: 40%
+
 }
 
 h1{
@@ -36,7 +38,6 @@ h1{
 h2 {
     font-size: 30px;
     text-underline-offset: 1pt;
-    line-height: 30%
 }
 
 b{
