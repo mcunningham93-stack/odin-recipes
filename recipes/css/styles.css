@@ -66,8 +66,8 @@ b{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border: 1px solid crimson;
-    background-color: crimson;
+    border: 1px solid lightgray;
+    background-color: lightgray;
     border-radius: 5px;
     width: max-content;
     padding: 3px;
