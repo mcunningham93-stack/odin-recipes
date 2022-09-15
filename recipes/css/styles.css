@@ -3,7 +3,7 @@
 body{
 background-color: cornsilk;
 color: orangered;
-max-width: 5in;
+max-width: calc(60%);
 }
 
 p {
