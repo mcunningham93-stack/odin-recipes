@@ -9,7 +9,8 @@ font-family: 'Anaheim';
 }
 
 p {
-    color:black
+    color:black;
+    font-size: 14px;
 }
 
 
