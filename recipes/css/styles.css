@@ -42,10 +42,9 @@ li {
     width: fit-content;
     padding-top: 10pt;
     padding-bottom: 12pt;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 0px;
-    padding-right: 0px;
+    margin-left: 40%;
+    margin-right: 40%;
+  
 }
 
 h1{
