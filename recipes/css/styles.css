@@ -34,7 +34,7 @@ li {
 }
 
 .ingredients {
-    border: 2pt;
+    border: 3px solid orangered;
     border-radius: 10pt;
 }
 
