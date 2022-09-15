@@ -34,6 +34,10 @@ b {
     font-weight: bold;
 }
 
+a {
+    text-align: center;
+}
+
 .center {
     display: block;
     margin-left: auto;
