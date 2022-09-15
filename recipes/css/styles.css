@@ -34,8 +34,8 @@ li {
 }
 
 .ingredients {
-    column-rule-color: orangered;
-    column-rule: 2px;
+    border: 2pt;
+    border-radius: 10pt;
 }
 
 h1{
