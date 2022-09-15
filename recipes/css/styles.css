@@ -36,9 +36,9 @@ li {
 .ingredients {
     border: 3px solid orangered;
     border-radius: 2pt;
-    width: fit-content;
+    width: 80% fit-content;
     padding-top: 10pt;
-    padding-bottom: 13pt;
+    padding-bottom: 12pt;
     margin-left: auto;
     margin-right: auto;
 }
