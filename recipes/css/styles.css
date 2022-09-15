@@ -37,11 +37,14 @@ li {
     border: 3px solid orangered;
     border-radius: 2pt;
     width: fit-content;
+    padding-top: 10pt;
+    padding-bottom: 13pt;
 }
 
 h1{
     font-size: 60px;
     padding-bottom: 20pt;
+   
 }
 
 h2 {
