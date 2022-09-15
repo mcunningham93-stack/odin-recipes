@@ -8,10 +8,6 @@ margin-left: calc(15%);
 font-family: 'Anaheim';
 }
 
-p {
-    color: darkorchid;
-}
-
 
 li {
     color: dodgerblue;
@@ -30,13 +26,6 @@ h2 {
     font-size: 30px;
 }
 
-b {
-    font-weight:600
-}
-
-.footer {
-    text-align: center;
-}
 
 .center {
     display: block;
