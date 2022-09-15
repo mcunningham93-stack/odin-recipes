@@ -15,7 +15,12 @@ p {
 
 .white {
     background-color: white;
-    width: auto;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px;
+    border: 2px solid orangered;
+    margin-bottom: 20pt;
 }
 
 .huge {
@@ -96,10 +101,7 @@ b{
 .centertype {
     text-align: center;
 }  
-.preview {
-    width: 60%;
-    max-height: 500;
-}
+
 
 a {
     text-decoration: none;
