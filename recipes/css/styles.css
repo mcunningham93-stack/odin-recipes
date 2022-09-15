@@ -61,6 +61,13 @@ b{
     padding-top: 20px;
 }
 
+.footer{
+    font-family: 'Aboreto';
+    text-align: center;
+    background-color: orangered;
+    
+}
+
 a {
     text-decoration: none;
 }
