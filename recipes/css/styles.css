@@ -5,7 +5,7 @@ background-color: cornsilk;
 color: orangered;
 }
 
-p{
+p ol ul{
     color: darkorchid;
 }
 
@@ -16,4 +16,8 @@ h1{
 
 h2 {
     font-family: 'Aboreto';font-size: 30px;
+}
+
+image{
+    align-items: center;
 }
