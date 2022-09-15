@@ -8,6 +8,10 @@ margin-left: calc(15%);
 font-family: 'Anaheim';
 }
 
+p {
+    color:black
+}
+
 
 li {
     color: dodgerblue;
