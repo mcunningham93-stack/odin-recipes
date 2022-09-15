@@ -33,13 +33,12 @@ li {
     font-family: 'Aboreto';
     text-align: center;
     font-style: underline;
-
 }
 
 .ingredients {
     border: 3px solid orangered;
     border-radius: 4pt;
-    width: fit-content;
+    width: 80%;
     max-width: 50%;
     padding-top: 10pt;
     padding-bottom: 12pt;
