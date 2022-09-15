@@ -49,6 +49,9 @@ b{
     border-radius: 25px;
   }
 
+.centertype {
+    text-align: center;
+}  
 .preview {
     display: block;
     margin-left: auto;
