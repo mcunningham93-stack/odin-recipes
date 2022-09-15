@@ -88,3 +88,7 @@ a {
     font-size: 18px;
     padding-bottom: 10pt
 }
+
+ * minutes {
+    color: blueviolet;
+}
