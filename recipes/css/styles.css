@@ -81,6 +81,7 @@ b{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    align-content: center;
     width: 100%;
     border: 3px solid orangered;
 
