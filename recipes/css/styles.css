@@ -5,8 +5,13 @@ background-color: cornsilk;
 color: orangered;
 }
 
-p ol ul{
+p {
     color: darkorchid;
+}
+
+
+li {
+    color: dodgerblue;
 }
 
 h1{
