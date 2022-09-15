@@ -13,6 +13,11 @@ p {
     font-size: 19px; 
 }
 
+.white {
+    background-color: white;
+    width: fit-content;
+}
+
 .huge {
     font-size: 100pt;
     line-height: 90%;
