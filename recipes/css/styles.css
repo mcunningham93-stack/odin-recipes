@@ -46,6 +46,7 @@ b{
     margin-right: auto;
     width: 80%;
     border: 5px solid red;
+    border-radius: 25px;
   }
 
 .preview {
