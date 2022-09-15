@@ -44,7 +44,7 @@ b{
     text-transform: uppercase;
 }
 
-.center {
+.image {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -58,9 +58,6 @@ b{
     text-align: center;
 }  
 .preview {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 60%;
     padding-top: 20px;
 }
