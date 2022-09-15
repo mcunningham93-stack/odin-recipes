@@ -26,6 +26,7 @@ li {
 .header{
     font-family: 'Aboreto';
     text-align: center;
+    font-style: underline;
 }
 
 h1{
