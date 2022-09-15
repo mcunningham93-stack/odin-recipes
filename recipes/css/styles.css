@@ -37,9 +37,8 @@ li {
 }
 
 .ingredients {
-    border: 3px solid orangered;
+    border: 2px solid orangered;
     border-radius: 4pt;
-    border-style: dashed;
     max-width: 450px;
     padding-top: 16pt;
     padding-bottom: 15pt;
