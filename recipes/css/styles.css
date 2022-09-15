@@ -35,8 +35,7 @@ h1{
 
 h2 {
     font-size: 30px;
-    font-style: underline;
-    text-underline-offset: 3px;
+    text-underline-offset: 1pt;
 }
 
 b{
@@ -51,6 +50,8 @@ b{
     width: 80%;
     border: 2px solid orangered;
     border-radius: 5px;
+    border-style: groove;
+
   }
 
 .centertype {
