@@ -45,7 +45,7 @@ b{
     margin-left: auto;
     margin-right: auto;
     width: 80%;
-    border: 5px solid crimson
+    border: 5px solid crimson;
     border-radius: 25px;
   }
 
@@ -53,5 +53,6 @@ b{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    columns: 33%;
     width: 20%;
 }
