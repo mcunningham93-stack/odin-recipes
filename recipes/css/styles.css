@@ -5,7 +5,6 @@ color: orangered;
 max-width: calc(60%);
 margin-left: calc(15%);
 font-family: 'Anaheim';
-line-height: 80%
 }
 
 p {
@@ -32,12 +31,12 @@ li {
 
 h1{
     font-size: 60px;
-    padding-bottom: 0px;
 }
 
 h2 {
     font-size: 30px;
     text-underline-offset: 1pt;
+    line-height: 70%
 }
 
 b{
