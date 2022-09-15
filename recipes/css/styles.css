@@ -19,6 +19,7 @@ li {
 h1{
     font-family: 'Aboreto';font-size: 60px;
     text-align: center;
+
 }
 
 h2 {
@@ -26,5 +27,5 @@ h2 {
 }
 
 image{
-    align-items: center;
+    align-content: center;
 }
