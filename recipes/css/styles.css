@@ -12,6 +12,10 @@ p {
     font-size: 19px; 
 }
 
+.huge {
+    font-size: x-large;
+}
+
 .pf {
     padding-top: 20pt;
 }
