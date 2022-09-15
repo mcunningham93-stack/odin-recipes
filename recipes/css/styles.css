@@ -40,7 +40,7 @@ li {
     border: 3px solid orangered;
     border-radius: 4pt;
     width: fit-content;
-    max-width: 300;
+    max-width: 300px;
     padding-top: 10pt;
     padding-bottom: 12pt;
     margin-left: auto;
