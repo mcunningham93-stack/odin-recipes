@@ -2,7 +2,7 @@
 body{
 background-color: cornsilk;
 color: orangered;
-max-width: calc(70%);
+max-width: calc(80%);
 margin-left: auto;
 margin-right: auto;
 font-family: 'Anaheim';
@@ -13,27 +13,46 @@ p {
     font-size: 19px; 
 }
 
-.white {
-    background-color: white;
-    width: 80%;
-    margin-right: auto;
-    margin-left: auto;
-    border: 2px solid orangered;
-    margin-bottom: 20pt;
+.recipegrid {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 3em;
+    justify-content: space-around;
+    gap: 12px;
+    
 }
 
-.huge {
-    font-size: 100pt;
-    line-height: 90%;
+.recipe {
+    background-color: white;
+    min-width: 250px;
+    border: 2px solid orangered;
+    text-align: center;
+    flex: 1;
+
+}
+
+.preview {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.info {
+    padding: .5em;
+    font-size: 2em;
+    margin: 0em;
+    font-family: 'Aboreto';
+    align-self: center;
+}
+
+.byline {
+    font-family: 'Anaheim';
+    margin-top: 0em;
 }
 
 .pf {
     padding-top: 20pt;
-}
-
-.pl {
-    padding-bottom: 15pt;
-    line-height: 0%;
 }
 
 li {
@@ -49,16 +68,26 @@ li {
 .header{
     font-family: 'Aboreto';
     text-align: center;
+    margin-bottom: 0em;
+    padding: .5em;
+}
+
+.huge {
+    font-size: 100pt;
+    line-height: 90%;
+    padding: 0em;
 }
 
 .ingredients {
     border: 2px solid orangered;
     border-radius: 4pt;
-    max-width: 450px;
-    padding-top: 16pt;
-    padding-bottom: 15pt;
-    padding-left: 0pt;
-    padding-right: 0pt;
+    box-sizing: border-box;
+    width: 350px;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0pt;
     margin-left: auto;
     margin-right: auto;
 }
@@ -70,6 +99,7 @@ h1{
 h2 {
     font-size: 30px;
     text-underline-offset: 1pt;
+    margin-bottom: 5pt;
 }
 
 h3 {
@@ -88,16 +118,20 @@ b{
 
 .image {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    align-content: center;
     width: 100%;
 
 }    
 
+ol {
+    padding: 0em;
+}
+
 
 .centertype {
     text-align: center;
+    margin-top: 0em;
+    padding: .5em;
+
 }  
 
 
