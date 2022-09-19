@@ -134,25 +134,32 @@ ol {
 
 }  
 
-
-a {
-    text-decoration: none;
-}
-
 .footer{
     font-family: 'Aboreto';
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     color: white;
-    border: 1px solid  orangered;
-    background-color: orangered;
-    border-radius: 5px;
     width: max-content;
-    padding: 3px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.back{
+    font-family: 'Aboreto';
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: orangered;
+    border-radius: .5em;
+    width: max-content;
+    padding: .5em;
     margin-top: 40px;
     margin-bottom: 80px;
+}
 
+a {
+    text-decoration: none;
 }
 
 .note{
