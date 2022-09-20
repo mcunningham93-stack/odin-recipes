@@ -8,7 +8,7 @@ margin-right: auto;
 font-family: 'Anaheim';
 }
 
-p {
+* {
     color:black;
     font-size: 19px; 
 }
@@ -16,11 +16,9 @@ p {
 .recipegrid {
     display: flex;
     flex-wrap: wrap;
-    align-content: center;
     margin-top: 3em;
-    justify-content: space-around;
     gap: 12px;
-    
+
 }
 
 .recipe {
@@ -29,26 +27,47 @@ p {
     border: 2px solid orangered;
     text-align: center;
     flex: 1;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
 }
 
 .preview {
     height: 250px;
     width: 100%;
     object-fit: cover;
+    align-self: stretch;
+
 }
 
 .info {
     padding: .5em;
     font-size: 2em;
-    margin: 0em;
-    font-family: 'Aboreto';
-    align-self: center;
+    font-family: 'Aboreto';    
 }
 
 .byline {
     font-family: 'Anaheim';
     margin-top: 0em;
+}
+
+.effort {
+    display: flex;
+    justify-content: space-between;
+    margin: 0em;
+    padding: .5em;
+    background-color: rgb(244, 221, 194);
+    color: white;
+}
+
+.time {
+    display: inline;
+
+}
+
+.difficulty {
+    display: inline;
 }
 
 .pf {
